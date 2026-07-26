@@ -22,12 +22,15 @@ body {
     border-radius: 10px;
 }
 
-img {
+.thumbnail {
     height: calc(100% - 8px);
+    float: left;
+}
+
+img {
     margin-left: 4px;
     margin-right: 4px;
     margin-top: 4px;
-    float: left;
     border-radius: 7px;
 }
 
